@@ -1,5 +1,5 @@
 
-##How to install dependencies React CLi 
+## How to install dependencies React CLi 
 
 With the  following command
 npm i -g create-react-native-app
@@ -8,7 +8,7 @@ create-react-native-app AppName
 Go to the created directory.
 cd AppName
 
-##Developer Mode
+## Developer Mode
 To run in developer mode or with a simulator
 Npm start
 Then 
