@@ -1,0 +1,12 @@
+{
+  "name": "ChatUIapp",
+  "displayName": "ChatUIapp",
+  "expo": {
+    "name": "ChatUIapp",
+    "slug": "ChatUIapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
