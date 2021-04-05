@@ -17,8 +17,7 @@ To run in developer mode or with a simulator
 
 Npm start
 
-Then 
-On your USB debugging and run and debug your project.
+Then turn on USB debugging and run and debug your project.
 
 ## Adding third party UI kit
 
