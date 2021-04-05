@@ -9,6 +9,7 @@ Then
 create-react-native-app AppName
 
 Go to the created directory.
+
 cd AppName
 
 ## Developer Mode
@@ -20,6 +21,7 @@ Then
 On your USB debugging and run and debug your project.
 
 ## Adding third party UI kit
+
 Npm i-S react-native-elements
 
 Npm i-- save react-native -vector-icons
